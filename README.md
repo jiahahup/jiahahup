@@ -1,8 +1,4 @@
-# 👋 Привет, я Сара!
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=QA-инженер;Ручное+%26+автоматизированное+тестирование;Ищу+баги+и+делаю+мир+лучше" alt="Typing SVG" />
-</p>
+# Привет, я Сара!
 
 <p align="center">
 <b>🔍 В поиске работы &nbsp;|&nbsp; Открыта к предложениям</b>
