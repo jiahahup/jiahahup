@@ -4,11 +4,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=QA-инженер;Ручное+%26+автоматизированное+тестирование;Ищу+баги+и+делаю+мир+лучше" alt="Typing SVG" />
 </p>
 
+<p align="center">
+<b>🔍 В поиске работы &nbsp;|&nbsp; Открыта к предложениям</b>
+</p>
 ---
 
 ## 🛠 Мой стек инструментов
 
-| **Категория** | **Инструменты (с иконками)** |
+| **Категория** | **Инструменты** |
 |---------------|------------------------------|
 | **Task‑трекеры** | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Yandex Tracker](https://img.shields.io/badge/-Yandex_Tracker-000000?style=for-the-badge&logo=yandex&logoColor=white) |
 | **Вики / Документация** | ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
