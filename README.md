@@ -46,7 +46,3 @@
 | 📱 **Телефон** | `+7 905 202-75-79` |
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ваш_ник&label=Просмотров+профиля&color=00BFFF&style=flat-square" alt="visitor badge" />
-</p>
