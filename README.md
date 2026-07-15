@@ -3,7 +3,6 @@
 <p align="center">
 <b>🔍 В поиске работы &nbsp;|&nbsp; Открыта к предложениям</b>
 </p>
----
 
 ## 🛠 Мой стек инструментов
 
@@ -16,6 +15,17 @@
 | **API‑тестирование** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | **Снифферы** | ![Charles](https://img.shields.io/badge/-Charles-4B8BBE?style=for-the-badge&logo=charles&logoColor=white) |
 | **Базы данных / BI** | ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) |
+
+## 📚 Сейчас изучаю (автотесты)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
+
+<p align="center"><i>Постепенно, но уверенно двигаюсь к автоматизации 🚀</i></p>
 
 ---
 
